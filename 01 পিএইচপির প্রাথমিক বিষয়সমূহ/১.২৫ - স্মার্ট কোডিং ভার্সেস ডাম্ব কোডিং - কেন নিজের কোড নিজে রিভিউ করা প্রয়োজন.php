@@ -1,5 +1,4 @@
 <?php
-<?php
 
 // Primitive Data Type
 /**
